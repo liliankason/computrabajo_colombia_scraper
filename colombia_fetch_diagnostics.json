@@ -1,0 +1,24 @@
+{
+  "url": "https://co.computrabajo.com/",
+  "attempts": [
+    {
+      "attempt": 1,
+      "status_code": 200,
+      "response_headers": {
+        "Date": "Mon, 12 Oct 2026 14:07:01 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Cache-Control": "private,max-age=300",
+        "Content-Encoding": "gzip",
+        "Age": "299",
+        "Vary": "*"
+      },
+      "body_length": 123706,
+      "body_snippet": "<!DOCTYPE html>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"es-CO\">\r\n<head>\r\n    \r\n    <title>Bolsa de empleo en Colombia | Ofertas de empleo Computrabajo</title>\r\n\r\n    <meta name=\"title\" content=\"Bolsa de empleo en Colombia | Ofertas de empleo Computrabajo\" />\r\n    <meta name=\"description\" content=\"Explora ofertas de empleo en Computrabajo Colombia y aplica gratis. Registra tu hoja de vida y accede a vacantes actualizadas en la bolsa de empleo.\" />\r\n    <meta name=\"author\" content=\"Computrabajo Colombia\" />\r\n    <meta property=\"og:title\" content=\"Bolsa de empleo en Colombia | Ofertas de empleo Computrabajo\" />\r\n    <meta property=\"og:description\" content=\"Explora ofertas de empleo en Computrabajo Colombia y aplica gratis. Registra tu hoja de vida y accede a vacantes actualizadas en la bolsa de empleo.\" />\r\n    <meta property=\"og:site_name\" content=\"Computrabajo Colombia\" />\r\n    <meta property=\"og:type\" content=\"website\" />\r\n    <meta property=\"og:image\" content=\"//cp.ct-stc.co",
+      "block_signature_matched": null,
+      "final_url_after_redirects": "https://co.computrabajo.com/"
+    }
+  ],
+  "outcome": "ok"
+}
