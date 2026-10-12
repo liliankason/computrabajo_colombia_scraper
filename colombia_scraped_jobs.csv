@@ -51195,3 +51195,60 @@ Información importante: La asignación del punto de venta puede variar según l
 -Requerimientos- Educación mínima: Bachillerato / Educación Media
 1 año de experiencia
 Palabras clave: ayudante, asistente, auxiliar, aux, auxiliary, assistant, helper, aide",FULL_TIME,full-time,"Bogotá, D.C.",Hostelería / Turismo,,,1750905 COP,2026-09-25,2026-11-24,2026-12-25,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-bar-para-restaurantes-en-bogota-dc-84FADA3EB1C5BF4B61373E686DCF3405,LA RECETA Y CIA S.A.S,,https://ii.ct-stc.com/1/logos/empresas/2018/09/07/8110345626-0C71A1910FE33B79172520418thumbnail.png,Hostelería / Turismo,,,,"Bogotá, D.C.",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-bar-para-restaurantes-en-bogota-dc-84FADA3EB1C5BF4B61373E686DCF3405,a1ebd988dab007d5
+131,16,DevOps Engineer / Cloud / Infrastructure Migration - Senior,"Objetivo del rol
+Ejecutar la migración y repatriación de cargas de trabajo desde AWS hacia infraestructura On-Premise, implementando los lineamientos definidos por arquitectura y asegurando la correcta transición de aplicaciones, contenedores, pipelines y componentes de infraestructura. El rol deberá garantizar estabilidad, seguridad, automatización y continuidad operativa durante y después de la migración.
+Responsabilidades principales
+Ejecutar migraciones de aplicaciones y componentes de infraestructura desde AWS ECS, EKS y EC2 hacia ambientes On-Premise.
+Implementar los procedimientos técnicos de migración definidos por arquitectura y DevOps, incluyendo preparación, despliegue, validación y rollback.
+Administrar temporalmente cargas de trabajo sobre AWS durante el período de transición.
+Construir, optimizar y mantener imágenes Docker.
+Desplegar y administrar aplicaciones sobre Kubernetes en infraestructura On-Premise.
+Configurar y mantener manifiestos, configuraciones y recursos asociados a Kubernetes.
+Automatizar tareas operativas, backups, migraciones y procedimientos de despliegue mediante Bash/Shell scripting.
+Configurar y mantener pipelines de integración y despliegue continuo mediante GitLab CI/CD.
+Implementar y mantener despliegues declarativos mediante ArgoCD, siguiendo prácticas GitOps.
+Operar aplicaciones basadas en Nginx, PHP-FPM, Composer y Drupal dentro de ambientes contenerizados.
+Dar soporte a componentes JavaScript asociados a las aplicaciones migradas.
+Integrar y ejecutar análisis de vulnerabilidades mediante Trivy dentro del pipeline.
+Integrar la ejecución automatizada de pruebas PHPUnit dentro del proceso de integración continua.
+Participar en pruebas de migración, validación de ambientes y actividades de estabilización posteriores al cambio.
+Documentar procedimientos de despliegue, configuración, operación, recuperación y rollback.
+Apoyar el diagnóstico y resolución de incidentes relacionados con infraestructura, Kubernetes, contenedores y pipelines.
+Requisitos técnicos
+Experiencia sólida en:
+AWS: ECS, EKS y EC2.
+Migraciones entre infraestructura Cloud y On-Premise.
+Linux y administración de sistemas.
+Bash / Shell scripting.
+Docker y construcción/optimización de imágenes.
+Kubernetes y administración de workloads.
+GitOps.
+ArgoCD.
+GitLab CI/CD.
+Nginx.
+PHP / PHP-FPM.
+Composer.
+Drupal.
+Trivy.
+PHPUnit.
+Git.
+Se valorará experiencia adicional en:
+Migraciones y respaldo/restauración de bases de datos.
+Networking, DNS, certificados TLS y balanceadores.
+Gestión de secretos y variables de entorno.
+Persistent Volumes y almacenamiento para Kubernetes On-Premise.
+Observabilidad y troubleshooting de plataformas contenerizadas.
+Estrategias de rollback, disaster recovery y continuidad operativa.
+Requisitos blandos
+Capacidad de análisis y resolución de problemas técnicos.
+Autonomía para ejecutar actividades de infraestructura siguiendo lineamientos arquitectónicos.
+Capacidad para trabajar coordinadamente con equipos de desarrollo, infraestructura, seguridad y arquitectura.
+Orientación a estabilidad y continuidad operativa.
+Capacidad para documentar procedimientos técnicos.
+Comunicación clara durante ventanas de migración e incidentes.
+Disciplina en gestión de cambios y procedimientos de producción.
+Experiencia mínima
+4 años de experiencia profesional en DevOps, Cloud o infraestructura, con experiencia demostrable en Docker, Kubernetes y CI/CD.
+Deseable experiencia directa en al menos un proyecto de migración Cloud On-Premise o transformación de infraestructura híbrida.-Requerimientos- Educación mínima: Universidad / Carrera Profesional
+años de experiencia
+Palabras clave: ingeniero, operaciones, ingeniero, engineers, ingeniera, ing, engineer, senior, sr",FULL_TIME,full-time,"Bogotá, D.C.",Informática / Software,,,,2026-09-25,2026-11-24,2026-12-25,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-devops-engineer--cloud-infrastructure-migration-senior-en-bogota-dc-837A912313122B5B61373E686DCF3405,Bits Americas,,https://ii.ct-stc.com/1/logos/empresas/2018/07/06/bits-americas-52C39F2DBEB4FCED130128929thumbnail.png,Informática / Software,,,,"Bogotá, D.C.",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-devops-engineer--cloud-infrastructure-migration-senior-en-bogota-dc-837A912313122B5B61373E686DCF3405,40eaa18d31e90d7b
