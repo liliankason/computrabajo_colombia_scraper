@@ -1,0 +1,110 @@
+name: Computrabajo Colombia Scraper
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Fires every 30 minutes. The concurrency group below QUEUES a tick that
+    # fires while a run is still going (never cancelled), so runs chain
+    # back-to-back. Each run can last up to ~5.5h. Once every location is
+    # scraped, the script sees colombia_SCRAPE_COMPLETE.flag and exits in seconds.
+    - cron: "*/30 * * * *"
+
+concurrency:
+  # Must be unique per country so countries can run in parallel.
+  group: computrabajo-scraper-colombia
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    # GitHub hard-kills at 360 min; the script's own MAX_RUNTIME_SECONDS stops it
+    # gracefully well before that.
+    timeout-minutes: 350
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure git identity
+        run: |
+          git config user.name "computrabajo-scraper-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+      - name: Run scraper (self-limiting runtime)
+        env:
+          WP_BASE_URL: ${{ secrets.WP_BASE_URL }}
+          WP_USERNAME: ${{ secrets.WP_USERNAME }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          INTERNAL_BOT_KEY: ${{ secrets.INTERNAL_BOT_KEY }}
+          # Commit + push the CSV and trackers to the repo after every saved job.
+          GIT_AUTO_PUSH: "1"
+          GIT_PUSH_EVERY_N_JOBS: "1"
+          # 20000s ≈ 5h33m, leaving ~15 min of headroom inside the 350-min
+          # timeout for setup and the commit step below.
+          MAX_RUNTIME_SECONDS: "20000"
+        run: python computrabajo_colombia_scraper.py
+
+      - name: Commit progress back to the repo
+        if: always()
+        run: |
+          git config user.name "computrabajo-scraper-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          files=()
+          for f in colombia_processed.csv colombia_computrabajo_progress.json colombia_scraped_jobs.csv colombia_debug.log colombia_SCRAPE_COMPLETE.flag colombia_homepage_debug.html colombia_fetch_diagnostics.json; do
+            if [ -f "$f" ]; then
+              files+=("$f")
+            else
+              echo "ℹ️  $f not present this run — skipping."
+            fi
+          done
+
+          # also keep any backed-up old CSVs
+          for f in colombia_scraped_jobs.csv.old-*; do
+            [ -f "$f" ] && files+=("$f")
+          done
+
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "⚠️  No output files exist — the scraper failed before writing anything."
+            exit 0
+          fi
+
+          git add -A -- "${files[@]}"
+          if git diff --cached --quiet; then
+            echo "No progress changes to commit."
+          else
+            git commit -m "Scraper progress update [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase --autostash && git push && break
+              echo "Push attempt $i failed — retrying..."
+              sleep 5
+            done
+          fi
+
+      - name: Report status
+        if: always()
+        run: |
+          if [ -f colombia_SCRAPE_COMPLETE.flag ]; then
+            echo "✅ All locations fully scraped."
+            cat colombia_SCRAPE_COMPLETE.flag
+          elif [ -f colombia_fetch_diagnostics.json ] && grep -q '"outcome": "blocked_or_failed"' colombia_fetch_diagnostics.json; then
+            echo "🚫 Homepage fetch looked blocked/failed — see colombia_fetch_diagnostics.json."
+          elif [ -f colombia_homepage_debug.html ]; then
+            echo "🐛 Homepage fetched OK but no location links matched — see colombia_homepage_debug.html."
+          else
+            echo "⏱ Time budget reached before finishing all locations."
+            echo "The next scheduled run will resume from colombia_computrabajo_progress.json."
+          fi
