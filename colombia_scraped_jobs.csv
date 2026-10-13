@@ -144197,3 +144197,48 @@ Work Model: Hybrid.
 Idiomas: Inglés
 Conocimientos: Aws, Cloud, Devops, Firewall, Kubernetes, Vpn
 Palabras clave: ingeniero, operaciones, ingeniero, engineers, ingeniera, ing, engineer",FULL_TIME,full-time,"Bogotá, D.C.",Telecomunicaciones,,,14000000 COP,2026-08-21,2026-10-20,2026-11-21,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-devops-engineer-advanced-english-kubernetes-terraform-en-bogota-dc-3E4654A78124263E61373E686DCF3405,Sutherland Global Services SGS,,https://ii.ct-stc.com/1/logos/empresas/2017/02/24/sgs-colombia-holding-sas-BE73C671821DDA50155314thumbnail.png,Telecomunicaciones,,,,"Bogotá, D.C.",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-devops-engineer-advanced-english-kubernetes-terraform-en-bogota-dc-3E4654A78124263E61373E686DCF3405,62cf92f4446b69b4
+377,13,"Senior DBA Advanced English - PostgreSQL, AWS RDS","Position Title: Senior Cloud Database Engineer
+
+Job Summary
+The purpose of this position is to deploy, operate and maintain NICE’s global customer hosted databases, while also resolving customer issues that require direct access to the database infrastructure, and acting in an appropriate professional working style. The Engineer will report to the Manager, Infrastructure Cloud Operations while acting as part of the Database Team managing the databases in AWS Cloud.
+
+Skills and experience
+
+• 6 to 10 Yrs. of experience as DBA in managing multiple DB engines.
+• Minimum 6 years relevant experience as DBA.
+• Hands on experience in multiple versions of Postgres database is mandatory.
+• Knowledge or experience working in Microsoft SQL, Aurora, MySQL will be an added advantage.
+• Hands on experience on AWS Cloud, AWS RDS apart from DB technology.
+• Basic coding skills in Powershell, Python, Terraform
+• Understand how automated backups are performed by AWS, know how to check the historical backup timings and how to perform ad-hoc snapshot
+• Understanding of ITIL – incidents, service requests, change management
+• Willingness to learn about technologies related to database and backup infrastructure, such as storage, backup, operating system and automation tools, cloud solutions or other database technologies.
+• Demonstrated ability to effectively establish and maintain cooperative working relationships within a global, diverse, multicultural environment.
+• Bachelor or Master’s Degree on Computer science or Information technology streams
+
+Job Responsibilities
+
+• AWS console administration
+• New deployment tasks for databases & RDS services
+• AWS RDS DB health check & availability checks using tools like CloudWatch and performance Insight.
+• Read & analyse log/error log for Databases
+• Alerts configuration, monitoring alerts and fine-tuning thresholds
+• Perform RDS instance actions and comparison with Terraform code
+• Export/import (Postgres) or backup/restore (SQL Server) specific data
+• Installing/deploying databases, configuring backups, maintenance jobs and other features as needed to support database capacity, performance or product functionality requirements.
+• Performing database administration tasks, including at latest versions of databases.
+• Performing data restores, patchset / service pack installation and deinstallation, edition upgrade and downgrade, troubleshoot locking, corruption issues as well as suggest and implement solutions with minimal downtime
+• Perform operational duties including database backups, application server health, service recycling.
+• Identify and resolve operational issues (e.g. batch failures, network issues, client data feed errors)
+• Experience in Monitor server performance, memory utilization, CPU, file systems, databases, batch jobs, backup and restore concept with best practise.
+• Prepare, review, test, and execute T-SQL and PowerShell scripts to perform database administrative tasks as assigned.
+• Investigate performance issues, provide and implement tuning solutions
+• Act as part of a global team, creating and extending existing documentation as well as continuously sharing information and assisting on tasks with other team members.
+• Working with monitoring tools
+• Experience providing 24x7 support to production Software as a Service infrastructure, including participating in on-call rota and out of hours/weekend support when needed.
+
+-Requerimientos- Educación mínima: Universidad / Carrera Profesional
+5 años de experiencia
+Idiomas: Inglés
+Conocimientos: Aws, Postgresql, Sql server
+Palabras clave: senior, sr",FULL_TIME,full-time,"Bogotá, D.C.",Telecomunicaciones,,,,2026-10-09,2026-12-08,2027-01-09,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-senior-dba-advanced-english-postgresql-aws-rds-en-bogota-dc-8841257A63F2FC0461373E686DCF3405,Sutherland Global Services SGS,,https://ii.ct-stc.com/1/logos/empresas/2017/02/24/sgs-colombia-holding-sas-BE73C671821DDA50155314thumbnail.png,Telecomunicaciones,,,,"Bogotá, D.C.",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-senior-dba-advanced-english-postgresql-aws-rds-en-bogota-dc-8841257A63F2FC0461373E686DCF3405,7558ca8893c3037c
