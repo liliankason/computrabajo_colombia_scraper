@@ -416101,3 +416101,48 @@ Salario: $2.962.529 básico + bonificación de $522.799 (salario total aproximad
 -Requerimientos- Educación mínima: Universidad / Carrera técnica
 2 años de experiencia
 Palabras clave: demostrador, feriante, viajante, agent, representative, agente, representante",FULL_TIME,full-time,"Medellín, Antioquia",RRHH / Personal,,,,2026-09-30,2026-11-29,2026-12-28,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-agente-de-carga-en-medellin-45289D250457553461373E686DCF3405,COMPLEMENTOS HUMANOS,,https://ii.ct-stc.com/1/logos/empresas/2023/02/27/complementos-humanos-20DDCDF8A8BEDA1B151548thumbnail.jpeg,RRHH / Personal,,,,"Medellín, Antioquia",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-agente-de-carga-en-medellin-45289D250457553461373E686DCF3405,1fdb1914cee01005
+399,12,"Ingeniero(a) Full Stack Semi Senior - Node.js, NestJS y React – Híbrido Medellín","Ubicación: Medellín, Antioquia (híbrido: 3 días en oficina y 2 desde casa)
+Contrato: término indefinido, tiempo completo, período de prueba de 2 meses
+Salario: $6.500.000 COP mensuales como salario objetivo. El rango va de $5.500.000 a $7.500.000 y varía según calificaciones y experiencia. Más todas las prestaciones de ley.
+Inglés: lectura técnica (documentación y código); la conversación es un plus
+
+SOBRE NOSOTROS
+GME International S.A.S. es el equipo de tecnología de un grupo con productos en varias industrias. Construimos y operamos plataformas multi-inquilino de datos e IoT en AWS: dispositivos conectados envían telemetría en tiempo casi real, la procesamos y la mostramos en tres portales web y una app móvil (iOS y Android). La plataforma ya está en producción con clientes reales. Nuestra prioridad número uno es la privacidad y la seguridad de los datos.
+
+LA MISIÓN DEL PUESTO
+Desarrollar funcionalidades nuevas de principio a fin, desde el endpoint de la API hasta la pantalla del portal, con el acompañamiento del líder técnico y sin romper lo que ya funciona.
+
+QUÉ HARÁS
+- Desarrollar y entregar funcionalidades completas en la API (NestJS / TypeScript) y en los tres portales web (React): administración, fabricantes y distribuidores, siguiendo el diseño técnico acordado con el líder técnico.
+- Trabajar dentro de un monorepo Nx con una librería de componentes compartida.
+- Integrar con contratos claros (REST / Swagger), autenticación JWT y control de acceso por roles.
+- Escribir pruebas unitarias, de integración y E2E, y entregar detrás de feature flags.
+- Usar agentes de IA para acelerar el desarrollo, sometiendo siempre el resultado a pruebas y revisión.
+
+STACK
+TypeScript, NestJS, PostgreSQL, Redis, React, Vite, Nx, Google Maps, Jest, Docker y Git autoalojado.
+
+REQUISITOS
+- 3+ años desarrollando producto en producción con TypeScript, en frontend y backend.
+- Conocimientos sólidos de arquitectura de software: diseño modular, separación de capas, patrones de diseño, diseño de APIs REST y modelado de datos.
+- Experiencia sólida con React y con APIs Node.js (idealmente NestJS) sobre PostgreSQL.
+- Experiencia escribiendo pruebas automatizadas y participando en revisiones de PR.
+- Capacidad para llevar funcionalidades a producción con autonomía creciente, pidiendo apoyo cuando haga falta.
+
+DESEABLE
+Aplicaciones multi-inquilino con roles, mapas y datos en tiempo real, Stripe, y React Native para apoyar la app móvil.
+
+CÓMO TRABAJAMOS
+Usamos agentes de IA todos los días, y todo lo que toca datos o seguridad pasa por revisión humana. Las funcionalidades nuevas se integran como módulos reversibles. Desarrollamos contra datos anonimizados. Cada cambio tiene su plan de rollback.
+
+QUÉ OFRECEMOS
+- Contrato directo a término indefinido con todas las prestaciones de ley (prima, cesantías, vacaciones, seguridad social).
+- Esquema híbrido: 3 días en oficina y 2 desde casa. En los días remotos se usan herramientas de seguimiento de actividad sobre los equipos y el horario de trabajo.
+- Revisión salarial a los 6 meses según desempeño.
+- Propiedad real sobre el producto en un equipo pequeño, con flujo de trabajo asistido por IA.
+- Acompañamiento técnico del líder y ruta de crecimiento hacia un rol senior.
+- Aceptamos candidatos de otras ciudades de Colombia dispuestos a reubicarse en Medellín. Apoyo de reubicación a convenir.-Requerimientos- Educación mínima: Universidad / Carrera Profesional
+3 años de experiencia
+Idiomas: Inglés
+Conocimientos: Api rest, Arquitectura de software, Docker, Node.js, Postgresql, Reactjs, Redis, Typescript, Desarrollo full stack
+Palabras clave: senior, sr",FULL_TIME,full-time,"Medellín, Antioquia",Finanzas / Banca,,,6500000 COP,2026-09-30,2026-11-29,2026-12-28,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-full-stack-semi-senior-nodejs-nestjs-y-react-hibrido-medellin-en-medellin-90055A871F901DC661373E686DCF3405,GME INTERNATIONAL S.A.S,,https://ii.ct-stc.com/1/logos/empresas/2026/09/29/06fbcd8f66c7446bbb3b203018455thumbnail.png,Finanzas / Banca,,,,"Medellín, Antioquia",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-full-stack-semi-senior-nodejs-nestjs-y-react-hibrido-medellin-en-medellin-90055A871F901DC661373E686DCF3405,4d120d9490ccb2f4
