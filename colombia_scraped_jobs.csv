@@ -364472,3 +364472,36 @@ Tipo de contrato: Obra o labor
 Horario: De domingo a viernes, turno tarde y nocturno, compensatorio o descanso los sábados
 Lugar de trabajo: Itagüí.-Requerimientos- Educación mínima: Bachillerato / Educación Media
 años de experiencia",FULL_TIME,full-time,"Medellín, Antioquia",Servicios Profesionales,,,2447083 COP,2026-10-09,2026-12-08,2027-01-09,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gastronomoa-en-medellin-3D0973DEC671478361373E686DCF3405,AGENCIA DE EMPLEO COMFAMA,,https://ii.ct-stc.com/1/logos/empresas/2023/02/06/comfama-C33915ABE219B74D130714thumbnail.png,Servicios Profesionales,,,,"Medellín, Antioquia",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gastronomoa-en-medellin-3D0973DEC671478361373E686DCF3405,03c8cd4d2513533b
+19,20,SDET (Software Development Engineer in Test) / Ingeniero de Automatización QC - Medellín,"Semi Senior o Senior Software Development Engineer in Test - Automatización de pruebas | Java | Python | AWS | CI/CD
+¿Eres un ingeniero de software que cree que la calidad debe construirse desde el desarrollo y no comprobarse únicamente al final?
+Estamos buscando un Semi Senior o Senior Software Development Engineer in Test (SDET) para participar en la construcción de soluciones de automatización y estrategias de calidad para aplicaciones bancarias de alta disponibilidad.
+Buscamos un perfil con mentalidad de ingeniería, sólidas habilidades de programación y experiencia diseñando frameworks de automatización escalables, integrando pruebas en pipelines CI/CD y validando arquitecturas modernas basadas en APIs y microservicios.
+Este rol va más allá del QA/QC tradicional: tendrás la responsabilidad de desarrollar soluciones técnicas que permitan prevenir defectos, automatizar controles de calidad y fortalecer la confiabilidad del software.
+¿Cuáles serán tus responsabilidades?
+Diseñar, desarrollar y mantener frameworks de automatización de pruebas reutilizables y escalables.
+Automatizar pruebas funcionales, de regresión, smoke e integración para APIs, aplicaciones web y, deseablemente, móviles.
+Desarrollar soluciones de testing utilizando Java y/o Python, aplicando principios de programación orientada a objetos, patrones de diseño y buenas prácticas de desarrollo.
+Integrar pruebas automatizadas en pipelines CI/CD, configurando quality gates y validaciones que ayuden a prevenir despliegues con riesgos de calidad.
+Diseñar y ejecutar pruebas de integración y contract testing en arquitecturas de microservicios.
+Validar flujos asincrónicos y eventos, idealmente mediante tecnologías como Kafka.
+Analizar resultados de pruebas, métricas y logs para identificar defectos, problemas de rendimiento y oportunidades de mejora.
+Colaborar con desarrolladores, arquitectos, equipos de plataforma y Product Owners para integrar la calidad en todo el ciclo de desarrollo.
+¿Qué buscamos?
+Experiencia y conocimientos indispensables
+3 o más años de experiencia en SDET (Software Development Engineer in Test), QA Automation, o roles relacionados con ingeniería de automatización con experiencia en sector asegurador/financiero.
+Al menos 2 años desarrollando automatización de pruebas sobre arquitecturas de microservicios.
+Experiencia práctica programando en Java y Python.
+Dominio de al menos una herramienta de automatización: Karate, REST Assured, Playwright o Cypress.
+Experiencia en pruebas de APIs REST, uso de Postman y documentación mediante OpenAPI/Swagger.
+Conocimientos de SQL, consultas y validación de datos.
+Experiencia con Git y procesos de integración continua mediante Azure DevOps o GitHub Actions.
+Experiencia trabajando con Docker y servicios de AWS.
+Experiencia integrando pruebas automatizadas en pipelines CI/CD.
+Familiaridad con metodologías ágiles y trabajo colaborativo con equipos multidisciplinarios
+Profesional en Ingeniería de Sistemas, Ingeniería de Software, Ingeniería Informática, Ingeniería Electrónica o carreras afines.
+CONDICIONES
+Contrato para trabajar con compañía de consultoría IT, Salario según aspiración y experiencia, Todas las Prestaciones de Ley, Beneficios extralegales como Seguro de Vida, Asistencias Médicas y Psicológicas, Convenios educativos y financieros, Descuentos en GYM, Viajes, Inglés, e-learning, entre otros. Horario de oficina lunes a viernes en modalidad híbrida (2 días en oficina en Medellín y 3 remoto)
+Si te apasiona desarrollar soluciones que eleven los estándares de calidad del software y quieres llevar la automatización más allá de la ejecución de pruebas, queremos conocerte. Postúlate y sé parte de un reto tecnológico en el que la calidad se construye desde el código.-Requerimientos- Educación mínima: Universidad / Carrera Profesional
+3 años de experiencia
+Conocimientos: Java, Python
+Palabras clave: engineers, ingeniera, ing, engineer",FULL_TIME,full-time,"Medellín, Antioquia",RRHH / Personal,,,,2026-10-13,2026-12-12,2027-01-13,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-sdet-software-development-engineer-in-test-ingeniero-de-automatizacion-qc-medellin-en-medellin-AC1E0FF8CF34B01061373E686DCF3405,Adecco Colombia S.A.,,https://ii.ct-stc.com/1/logos/empresas/2025/07/22//adecco-colombia-sa174640thumbnail.png,RRHH / Personal,,,,"Medellín, Antioquia",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-sdet-software-development-engineer-in-test-ingeniero-de-automatizacion-qc-medellin-en-medellin-AC1E0FF8CF34B01061373E686DCF3405,efa5205a43fe7831
