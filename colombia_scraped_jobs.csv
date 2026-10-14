@@ -414126,3 +414126,52 @@ Beneficios para los hijos de los empleados
 -Requerimientos- Educación mínima: Universidad / Carrera Profesional
 4 años de experiencia
 Palabras clave: residente, encargado, supervisor, subgerente, responsable, coordinador, gestor, capitan, quality, qa",FULL_TIME,full-time,"Medellín, Antioquia",Fabricación,,,,2026-10-01,2026-11-30,2027-01-01,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-de-calidad-en-medellin-41DAD244866154D961373E686DCF3405,Colplast,,https://ii.ct-stc.com/1/logos/empresas/2016/12/02/colplast-7D03483A4EE77201thumbnail.jpeg,Fabricación,,,,"Medellín, Antioquia",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-de-calidad-en-medellin-41DAD244866154D961373E686DCF3405,bbdbf8cc4459af85
+394,12,Líder Técnico(a) de Plataforma y Operaciones - AWS · IoT – Híbrido Medellín,"Ubicación: Medellín, Antioquia (híbrido: 3 días en oficina y 2 desde casa)
+Contrato: término indefinido, tiempo completo, período de prueba de 2 meses
+Salario: $11.000.000 COP mensuales como salario objetivo. El rango va de $10.000.000 a $12.000.000 y varía según calificaciones y experiencia. Más todas las prestaciones de ley.
+Inglés: B2 o superior, hablado y escrito (indispensable)
+
+SOBRE NOSOTROS
+GME International S.A.S. es el equipo de tecnología de un grupo con productos en varias industrias. Construimos y operamos plataformas multi-inquilino de datos e IoT en AWS: dispositivos conectados envían telemetría en tiempo casi real, la procesamos y la mostramos en tres portales web y una app móvil (iOS y Android). La plataforma ya está en producción con clientes reales. Nuestra prioridad número uno es la privacidad y la seguridad de los datos.
+
+LA MISIÓN DEL PUESTO
+Liderar la unidad de tecnología en Medellín y mantener la plataforma estable, segura y recuperable. Eres el punto de contacto con el equipo de negocio en EE. UU. y tienes la última palabra técnica en el día a día.
+
+QUÉ HARÁS
+- Liderar un equipo de dos ingenieros: asignar el trabajo, revisar el código (incluido el generado con IA) y acompañar su crecimiento.
+- Ser el enlace con EE. UU.: reuniones, reportes de estado, estimaciones y documentación en inglés.
+- Operar la infraestructura de producción en AWS: disponibilidad, parches de seguridad, escalado, costos y monitoreo.
+- Pasar la infraestructura existente a código (Terraform), producción incluida.
+- Mantener el flujo de telemetría IoT de punta a punta: AWS IoT Core (MQTT), SQS/SNS, Lambda y bases de datos relacionales y de series temporales.
+- Ser dueño(a) de la API central (NestJS / TypeScript) y de PostgreSQL: rendimiento, migraciones seguras y aislamiento entre clientes.
+- Gobernar los datos: retención, archivado, backups verificados y recuperación ante desastres.
+- Proteger la plataforma: secretos, identidades y cifrado (Secrets Manager, KMS, IAM con mínimo privilegio).
+- Operar CI/CD con escaneo de seguridad, despliegues reversibles y un entorno de staging con datos anonimizados.
+- Atender incidentes de producción y liderar su análisis posterior.
+
+STACK
+TypeScript / Node.js (NestJS), Python, SQL (PostgreSQL), Bash. AWS: ECS/Fargate, Lambda, IoT Core, SQS, SNS, EventBridge, RDS PostgreSQL, Timestream para InfluxDB, ElastiCache (Redis), S3, CloudFront, CloudWatch, Secrets Manager, KMS, IAM y VPC. Terraform. Integraciones con Stripe, Firebase y AWS SES.
+
+REQUISITOS
+- 6+ años en backend o infraestructura en producción, con al menos 3 operando AWS.
+- Experiencia liderando técnicamente a otros ingenieros.
+- Inglés B2 o superior, hablado y escrito. Se evaluará en la entrevista.
+- Terraform, Docker, CI/CD y arquitecturas orientadas a eventos (colas, reintentos, idempotencia).
+- PostgreSQL avanzado y seguridad en la nube.
+
+DESEABLE
+IoT o MQTT, bases de series temporales, haber pasado a código una infraestructura creada a mano, y trabajar con IA de forma metódica.
+
+CÓMO TRABAJAMOS
+Usamos agentes de IA todos los días, y todo lo que toca datos o seguridad pasa por revisión humana. Las funcionalidades nuevas se integran como módulos reversibles. Desarrollamos contra datos anonimizados. Cada cambio tiene su plan de rollback.
+
+QUÉ OFRECEMOS
+- Contrato directo a término indefinido con todas las prestaciones de ley (prima, cesantías, vacaciones, seguridad social).
+- Esquema híbrido: 3 días en oficina y 2 desde casa. En los días remotos se usan herramientas de seguimiento de actividad sobre los equipos y el horario de trabajo.
+- Revisión salarial a los 6 meses según desempeño, y presupuesto para certificaciones AWS.
+- Rol de liderazgo con propiedad real sobre una plataforma en producción.
+- Aceptamos candidatos de otras ciudades de Colombia dispuestos a reubicarse en Medellín. Apoyo de reubicación a convenir.-Requerimientos- Educación mínima: Universidad / Carrera Profesional
+6 años de experiencia
+Idiomas: ,Inglés
+Conocimientos: Devops, Docker, Node.js, Postgresql, Python, Typescript, Seguridad en la nube
+Palabras clave: jefe, gerente, manager, director, chief, lead, jefatura, regente, operations, operaciones",FULL_TIME,full-time,"Medellín, Antioquia",Finanzas / Banca,,,11000000 COP,2026-09-30,2026-11-29,2026-12-28,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-tecnicoa-de-plataforma-y-operaciones-aws-iot-hibrido-medellin-en-medellin-23A2C81E5338F6A461373E686DCF3405,GME INTERNATIONAL S.A.S,,https://ii.ct-stc.com/1/logos/empresas/2026/09/29/06fbcd8f66c7446bbb3b203018455thumbnail.png,Finanzas / Banca,,,,"Medellín, Antioquia",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-tecnicoa-de-plataforma-y-operaciones-aws-iot-hibrido-medellin-en-medellin-23A2C81E5338F6A461373E686DCF3405,f299375eb8b88cd5
