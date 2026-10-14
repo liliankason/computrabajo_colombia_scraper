@@ -414864,3 +414864,45 @@ Salario mínimo legal vigente + horas extras + prestaciones de ley.
 Turnos rotativos.-Requerimientos- Educación mínima: Bachillerato / Educación Media
 1 año de experiencia
 Palabras clave: host, hostess",FULL_TIME,full-time,"Medellín, Antioquia",RRHH / Personal,,,1750905 COP,2026-09-30,2026-11-29,2026-12-28,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-anfitrion-punto-de-venta-de-alimentos-en-medellin-221D2679983DC64D61373E686DCF3405,COMPLEMENTOS HUMANOS,,https://ii.ct-stc.com/1/logos/empresas/2023/02/27/complementos-humanos-20DDCDF8A8BEDA1B151548thumbnail.jpeg,RRHH / Personal,,,,"Medellín, Antioquia",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-anfitrion-punto-de-venta-de-alimentos-en-medellin-221D2679983DC64D61373E686DCF3405,b4ec479e723b42e3
+396,8,Ingeniero(a) Web y Móvil - React Native y React – Híbrido Medellín,"Ubicación: Medellín, Antioquia (híbrido: 3 días en oficina y 2 desde casa)
+Contrato: término indefinido, tiempo completo, período de prueba de 2 meses
+Salario: $6.500.000 COP mensuales como salario objetivo. El rango va de $6.000.000 a $7.500.000 y varía según calificaciones y experiencia. Más todas las prestaciones de ley.
+Inglés: lectura técnica
+
+SOBRE NOSOTROS
+GME International S.A.S. es el equipo de tecnología de un grupo con productos en varias industrias. Construimos y operamos plataformas multi-inquilino de datos e IoT en AWS: dispositivos conectados envían telemetría en tiempo casi real, la procesamos y la mostramos en tres portales web y una app móvil (iOS y Android). La plataforma ya está en producción con clientes reales. Nuestra prioridad número uno es la privacidad y la seguridad de los datos.
+
+LA MISIÓN DEL PUESTO
+Ser dueño(a) de la experiencia móvil y apoyar las pantallas de los portales web.
+
+QUÉ HARÁS
+- Mantener y extender la app móvil para iOS y Android: tableros de datos en tiempo casi real, mapas, alertas, notificaciones push (Firebase) y suscripciones (Stripe).
+- Publicar y mantener versiones en App Store y Google Play.
+- Integrar con la API mediante contratos REST, con manejo seguro de sesión y el mínimo de datos sensibles guardados en el dispositivo.
+- Apoyar el desarrollo de pantallas en los portales web (React).
+- Escribir pruebas y usar agentes de IA con revisión.
+
+STACK
+React Native, TypeScript, React, Firebase Cloud Messaging, Stripe, Google Maps, Jest y Detox o Appium. Swift y Kotlin son deseables para módulos nativos.
+
+REQUISITOS
+- 3+ años desarrollando apps móviles en producción, con al menos una publicada en App Store y Google Play.
+- React Native con TypeScript.
+- Integración de APIs REST y notificaciones push.
+
+DESEABLE
+Módulos nativos iOS (Swift) o Android (Kotlin), CarPlay o Android Auto, pagos en móvil y CI/CD móvil.
+
+CÓMO TRABAJAMOS
+Usamos agentes de IA todos los días, y todo lo que toca datos o seguridad pasa por revisión humana. Las funcionalidades nuevas se integran como módulos reversibles. Desarrollamos contra datos anonimizados. Cada cambio tiene su plan de rollback.
+
+QUÉ OFRECEMOS
+- Contrato directo a término indefinido con todas las prestaciones de ley (prima, cesantías, vacaciones, seguridad social).
+- Esquema híbrido: 3 días en oficina y 2 desde casa. En los días remotos se usan herramientas de seguimiento de actividad sobre los equipos y el horario de trabajo.
+- Revisión salarial a los 6 meses según desempeño.
+- Propiedad de la experiencia móvil de una plataforma con usuarios reales.
+- Aceptamos candidatos de otras ciudades de Colombia dispuestos a reubicarse en Medellín. Apoyo de reubicación a convenir.-Requerimientos- Educación mínima: Universidad / Carrera Profesional
+3 años de experiencia
+Idiomas: Inglés
+Conocimientos: Android, Api rest, Firebase, Ios, Kotlin, React native, Reactjs, Swift, Typescript, Desarrollo móvil
+Palabras clave: internet, web",FULL_TIME,full-time,"Medellín, Antioquia",Finanzas / Banca,,,6500000 COP,2026-09-30,2026-11-29,2026-12-28,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-web-y-movil-react-native-y-react-hibrido-medellin-en-medellin-AD7E36E5D800B68961373E686DCF3405,GME INTERNATIONAL S.A.S,,https://ii.ct-stc.com/1/logos/empresas/2026/09/29/06fbcd8f66c7446bbb3b203018455thumbnail.png,Finanzas / Banca,,,,"Medellín, Antioquia",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-web-y-movil-react-native-y-react-hibrido-medellin-en-medellin-AD7E36E5D800B68961373E686DCF3405,09d0540cd960ffd6
