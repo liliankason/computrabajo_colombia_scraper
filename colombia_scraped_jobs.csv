@@ -597696,3 +597696,45 @@ CONDICIONES DEL CARGO
 -Requerimientos- Educación mínima: Universidad / Carrera Profesional
 3 años de experiencia
 Palabras clave: ayudante, asistente, auxiliar, aux, auxiliary, assistant, helper, aide, contador, pagador, contralor, accountant, facturista, tesorero, contable",FULL_TIME,full-time,"Cali, Valle del Cauca",Construcción / obras,,,2500000 COP,2026-09-24,2026-11-23,2026-12-24,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-contable-en-cali-FF53F5E98860694C61373E686DCF3405,GAMBOA CONSTRUCTORA S.A.S,,https://ii.ct-stc.com/1/logos/empresas/2026/09/24/d6efef54d0f94d60a89f165133749thumbnail.png,Construcción / obras,,,,"Cali, Valle del Cauca",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-contable-en-cali-FF53F5E98860694C61373E686DCF3405,561a633a606f3e7d
+371,14,Líder de Automatización de QA - QA Automation Architect (Playwright + AI),"Buscamos un Líder de Automatización de QA con criterio técnico sólido y visión pragmática, capaz de diseñar, estructurar y liderar la estrategia de automatización de pruebas de nuestra plataforma. No buscamos solo a alguien que escriba scripts, sino a un profesional que sepa orquestar herramientas modernas como Playwright e Inteligencia Artificial (Claude / LLMs) para construir una suite de pruebas robusta, mantenible y escalable sobre un software con alta lógica de negocio.
+
+Responsabilidades principales
+Diseño e implementación de la arquitectura de automatización: Definir y mantener el framework de pruebas automatizadas E2E y de API utilizando Playwright con TypeScript.
+
+Integración de IA en el ciclo de QA: Utilizar Claude / LLMs para acelerar la generación de código de prueba, mantenimiento de selectores, diagnóstico de fallos y documentación de casos de uso.
+
+Estrategia de pruebas para software legacy/complejo: Diseñar estrategias para la gestión de datos de prueba, manejo de estados de sesión y desacoplamiento de flujos en entornos con lógica de negocio pesada (matrices de riesgo, auditorías, flujos de aprobación).
+
+Integración CI/CD: Incorporar la ejecución de pruebas en los pipelines de despliegue continuo y configurar reportes detallados de ejecución (Playwright Traces, capturas y métricas).
+
+Definición de estándares y documentación: Crear las guías de estilo de automatización, estándares de diseño (Page Object Model, App Actions) y prompts estructurados para asegurar que las contribuciones del equipo (humano e IA) sean limpias y mantenibles.
+
+Requisitos
+Experiencia sólida en automatización: +4 años diseñando frameworks de automatización de pruebas UI y API, con dominio avanzado de Playwright (o Selenium/Cypress con ganas de migrar al 100% a Playwright) usando TypeScript o JavaScript.
+
+Uso avanzado de herramientas de IA: Experiencia práctica utilizando Claude, GitHub Copilot o modelos similares para asistencia en codificación, refactorización y resolución de problemas.
+
+Criterio de arquitectura de QA: Entendimiento claro de cuándo automatizar, cómo evitar la fragilidad de las pruebas (flaky tests) y cómo estructurar suites eficientes.
+
+Manejo de datos e integración: Conocimiento en estrategias para la preparación de datos de prueba (vía API o BD) y ejecución en pipelines de CI/CD (GitHub Actions, GitLab CI, Azure DevOps o Jenkins).
+
+Ubicación: Residencia en Colombia (trabajo 100% remoto).
+
+Deseable
+Conocimiento o experiencia en software de cumplimiento normativo, riesgos o estándares de calidad ISO (9001, 27001, etc.).
+
+Familiaridad con el uso de servidores MCP (Model Context Protocol) o automatización de tareas con agentes de IA.
+
+Conocimiento básico de SQL para verificación de datos en base de datos durante la ejecución de pruebas.
+
+¿Qué ofrecemos?
+Contrato a término indefinido directo con Binaps Colombia.
+
+Modalidad 100% remota desde cualquier ciudad de Colombia.
+
+Reto tecnológico de alto impacto: La oportunidad de liderar la integración de IA en los procesos de QA en una plataforma madura e indispensable para nuestros clientes.
+
+Ambiente de trabajo colaborativo, enfocado en resultados y en la adopción constante de buenas prácticas.-Requerimientos- Educación mínima: Universidad / Carrera Profesional
+4 años de experiencia
+Conocimientos: Aplicación de pruebas, Aseguramiento de calidad, Automatización, Base de datos
+Palabras clave: jefe, gerente, manager, director, chief, lead, jefatura, regente, calidad, quality, qa, arquitecto, architecture, arquitectura",FULL_TIME,full-time,"Cali, Valle del Cauca",Informática / Software,,,,2026-09-24,2026-11-23,2026-12-24,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-de-automatizacion-de-qa-qa-automation-architect-playwright-ai-en-cali-C7CD609046DCF46061373E686DCF3405,It-Solutions Ltda.,,https://ii.ct-stc.com/1/logos/empresas/2022/04/21/63506016d2af4e4cb2a5212947911thumbnail.jpeg,Informática / Software,,,,"Cali, Valle del Cauca",,https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-de-automatizacion-de-qa-qa-automation-architect-playwright-ai-en-cali-C7CD609046DCF46061373E686DCF3405,43320b2330e8aff8
